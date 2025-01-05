@@ -16,3 +16,7 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## Day 4 - Dice Rolling Simulator🎲
 - Implementation : [Dice Rolling Simulator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day4)
 - Example : [Post](https://vt.tiktok.com/ZS6yXtYmQ)
+
+## Day 5 - Rock, Paper, Scissors✌️
+- Implementation : [Rock, Paper, Scissors](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day5)
+- Example : [Post](https://vt.tiktok.com/ZS6fWtdQe/)
