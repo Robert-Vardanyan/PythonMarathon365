@@ -20,3 +20,7 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## Day 5 - Rock, Paper, Scissors✌️
 - Implementation : [Rock, Paper, Scissors](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day5)
 - Example : [Post](https://vt.tiktok.com/ZS6fWtdQe/)
+
+## Day 6 - Quick Quiz📝
+- Implementation : [Quick Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day6)
+- Example : [Post](https://vt.tiktok.com/ZS6Pt47NT/)
