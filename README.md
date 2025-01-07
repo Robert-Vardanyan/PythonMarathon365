@@ -24,3 +24,7 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## Day 6 - Quick Quiz📝
 - Implementation : [Quick Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day6)
 - Example : [Post](https://vt.tiktok.com/ZS6Pt47NT/)
+
+## Day 7 - Calculator🧮
+- Implementation : [Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day7)
+- Example : [Post](https://vt.tiktok.com/ZS65XMeTm/)
