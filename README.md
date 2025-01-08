@@ -29,6 +29,6 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 - Implementation : [Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day7)
 - Example : [Post](https://vt.tiktok.com/ZS65XMeTm/)
 
-## Day 8 - Password Check
+## Day 8 - Password Check👁‍🗨
 - Implementation : [Password Check](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day8)
 - Example : [Post](https://vt.tiktok.com/ZS6aqeGRS)
