@@ -32,3 +32,7 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## Day 8 - Password Check👁‍🗨
 - Implementation : [Password Check](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day8)
 - Example : [Post](https://vt.tiktok.com/ZS6aqeGRS)
+
+## Day 9 - Hangman game 𓍯
+- Implementation : [Hangman game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day9)
+- Example : [Post]()
