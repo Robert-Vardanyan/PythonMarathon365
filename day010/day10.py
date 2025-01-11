@@ -15,4 +15,5 @@ def show_notification():
     # You can add additional logic or delay if needed
     time.sleep(1)
 
+
 show_notification()

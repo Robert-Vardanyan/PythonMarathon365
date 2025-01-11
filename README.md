@@ -36,3 +36,7 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## Day 9 - Hangman game 𓍯
 - Implementation : [Hangman game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day9)
 - Example : [Post]()
+
+## Day 10 - Notification
+- Implementation : [Hangman game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day10)
+- Example : [Post]()
