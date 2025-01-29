@@ -81,3 +81,39 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 - Implementation : [Birthday Countdown](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day020)
 - Example : [Post]()
 
+## Day 21 - Weather App  ☀️
+- Implementation : [Weather App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day021)
+- Example : [Post]()
+
+## Day 22 - Random Joke Generator 🤣
+- Implementation : [Random Joke Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day022)
+- Example : [Post]()
+
+## Day 23 - Basic Email Sender 📧
+- Implementation : [Basic Email Sender](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day023)
+- Example : [Post]()
+
+## Day 24 - Stopwatch ⏱️
+- Implementation : [Stopwatch](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day024)
+- Example : [Post]()
+
+## Day 25 - Text Reverser 🔄
+- Implementation : [Text Reverser](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day025)
+- Example : [Post]()
+
+## Day 26 - Prime Number Checker 🧮
+- Implementation : [Prime Number Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day026)
+- Example : [Post]()
+
+## Day 27 - Fibonacci Sequence Generator 🔢
+- Implementation : [Fibonacci Sequence Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day027)
+- Example : [Post]()
+
+## Day 28 - Number Base Converter 🔀
+- Implementation : [Number Base Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day028)
+- Example : [Post]()
+
+## Day 29 - Virtual Dice Roller 🎲
+- Implementation : [Virtual Dice Roller](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day029)
+- Example : [Post]()
+
