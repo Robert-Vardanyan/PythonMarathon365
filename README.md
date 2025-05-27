@@ -113,7 +113,38 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 - Implementation : [Number Base Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day028)
 - Example : [Post]()
 
-## ✅ Day 29 - Virtual Dice Roller 🎲
+## ✅ Day 29 - Virtual Dice Roller 🎲  
 - Implementation : [Virtual Dice Roller](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day029)
-- Example : [Post]()
 
+## ✅ Day 30 - Simple Flashcard App 🧠  
+- Implementation : [Simple Flashcard App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day030)
+
+## ✅ Day 31 - Word Counter Tool 🔢  
+- Implementation : [Word Counter Tool](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day031)
+
+## ✅ Day 32 - Magic 8-Ball Game 🎱  
+- Implementation : [Magic 8-Ball Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day032)
+
+## ✅ Day 33 - Random Name Picker 🎰  
+- Implementation : [Random Name Picker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day033)
+
+## ✅ Day 34 - Color Mixer (RGB to Hex Converter) 🎨  
+- Implementation : [Color Mixer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day034)
+
+## ✅ Day 35 - Simple Drawing App (ASCII Art) ✏️  
+- Implementation : [Simple Drawing App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day035)
+
+## ✅ Day 36 - Palindrome Checker 🔁  
+- Implementation : [Palindrome Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day036)
+
+## ✅ Day 37 - Factorial Calculator ✖️  
+- Implementation : [Factorial Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day037)
+
+## ✅ Day 38 - Temperature Converter 🌡️  
+- Implementation : [Temperature Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day038)
+
+## ✅ Day 39 - Tip Calculator 💸  
+- Implementation : [Tip Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day039)
+
+## ✅ Day 40 - Currency Converter 💱  
+- Implementation : [Currency Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day040)
