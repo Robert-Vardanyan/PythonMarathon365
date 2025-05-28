@@ -148,3 +148,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 40 - Currency Converter 💱  
 - Implementation : [Currency Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day040)
+
+## ✅ Day 41 - Random Story Generator 📖  
+- Implementation : [Random Story Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day041)
+
+## ✅ Day 42 - Emoji Translator 😄  
+- Implementation : [Emoji Translator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day042)
+
+## ✅ Day 43 - BMI Calculator ⚖️  
+- Implementation : [BMI Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day043)
+
+## ✅ Day 44 - Simple Stopwatch with GUI ⏱️  
+- Implementation : [Simple Stopwatch](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day044)
+
+## ✅ Day 45 - Grocery Shopping List 🛒  
+- Implementation : [Grocery Shopping List](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day045)
+
+## ✅ Day 46 - Flashlight (Turn screen color to bright white) 🔦  
+- Implementation : [Flashlight](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day046)
+
+## ✅ Day 47 - Random Meal Planner 🍽️  
+- Implementation : [Random Meal Planner](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day047)
+
+## ✅ Day 48 - Grade Calculator 📝  
+- Implementation : [Grade Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day048)
+
+## ✅ Day 49 - Age Calculator 🎂  
+- Implementation : [Age Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day049)
+
+## ✅ Day 50 - Acronym Generator 🔤  
+- Implementation : [Acronym Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day050)
