@@ -178,3 +178,34 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 50 - Acronym Generator 🔤  
 - Implementation : [Acronym Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day050)
+
+## ✅ Day 51 - Simple Poll Creator 📊  
+- Implementation : [Simple Poll Creator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day051)
+
+## ✅ Day 52 - Pythagorean Triplets Finder 📐  
+- Implementation : [Pythagorean Triplets Finder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day052)
+
+## ✅ Day 53 - Area Calculator for Shapes 🔷  
+- Implementation : [Area Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day053)
+
+## ✅ Day 54 - Simple Budget Tracker 💰  
+- Implementation : [Simple Budget Tracker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day054)
+
+## ✅ Day 55 - Coin Flip Simulator 🪙  
+- Implementation : [Coin Flip Simulator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day055)
+
+## ✅ Day 56 - Love Compatibility Calculator ❤️  
+- Implementation : [Love Compatibility Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day056)
+
+## ✅ Day 57 - Random Password Strength Checker 🔐  
+- Implementation : [Password Strength Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day057)
+
+## ✅ Day 58 - Simple Contact Book 📒  
+- Implementation : [Simple Contact Book](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day058)
+
+## ✅ Day 59 - Countdown to New Year 🎆  
+- Implementation : [Countdown to New Year](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day059)
+
+## ✅ Day 60 - Binary Search Implementation 🔎  
+- Implementation : [Binary Search](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day060)
+
