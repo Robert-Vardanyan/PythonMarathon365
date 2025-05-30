@@ -209,3 +209,32 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 ## ✅ Day 60 - Binary Search Implementation 🔎  
 - Implementation : [Binary Search](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day060)
 
+## ✅ Day 61 - Leap Year Checker 📅  
+- Implementation : [Leap Year Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day061)
+
+## ✅ Day 62 - Markdown to HTML Converter 📝➡️🌐  
+- Implementation : [Markdown to HTML Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day062)
+
+## ✅ Day 63 - Random Username Generator 🧑‍💻  
+- Implementation : [Random Username Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day063)
+
+## ✅ Day 64 - Morse Code Translator •− / −•• / −−•  
+- Implementation : [Morse Code Translator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day064)
+
+## ✅ Day 65 - Caesar Cipher Encoder/Decoder 🏛️🔐  
+- Implementation : [Caesar Cipher](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day065)
+
+## ✅ Day 66 - Digital Clock 🕒  
+- Implementation : [Digital Clock](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day066)
+
+## ✅ Day 67 - Lottery Number Generator 🎲🎰  
+- Implementation : [Lottery Number Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day067)
+
+## ✅ Day 68 - Traffic Light Simulation 🚦  
+- Implementation : [Traffic Light Simulation](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day068)
+
+## ✅ Day 69 - Simple Voting System 🗳️  
+- Implementation : [Simple Voting System](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day069)
+
+## ✅ Day 70 - Calendar Viewer 📆  
+- Implementation : [Calendar Viewer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day070)
