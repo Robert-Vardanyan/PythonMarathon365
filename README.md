@@ -238,3 +238,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 70 - Calendar Viewer 📆  
 - Implementation : [Calendar Viewer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day070)
+
+## ✅ Day 71 - URL Shortener (Local Implementation) 🔗  
+- Implementation : [URL Shortener](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day071)
+
+## ✅ Day 72 - Simple Spelling Checker 📝✅  
+- Implementation : [Spelling Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day072)
+
+## ✅ Day 73 - Typing Speed Test ⌨️⚡  
+- Implementation : [Typing Speed Test](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day073)
+
+## ✅ Day 74 - Random Color Picker 🎨  
+- Implementation : [Random Color Picker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day074)
+
+## ✅ Day 75 - Mad Libs Generator 🤪📄  
+- Implementation : [Mad Libs Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day075)
+
+## ✅ Day 76 - Guess the Capital Game 🗺️🏙️  
+- Implementation : [Guess the Capital Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day076)
+
+## ✅ Day 77 - Element Symbol Quiz ⚗️🔤  
+- Implementation : [Element Symbol Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day077)
+
+## ✅ Day 78 - Simple Calculator with GUI ➕🖥️  
+- Implementation : [Simple Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day078)
+
+## ✅ Day 79 - Rock-Paper-Scissors with GUI ✊🖐️✌️  
+- Implementation : [Rock-Paper-Scissors](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day079)
+
+## ✅ Day 80 - 2D Drawing Application 🎨🖌️  
+- Implementation : [2D Drawing Application](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day080)
