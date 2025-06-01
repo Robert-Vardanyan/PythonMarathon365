@@ -268,3 +268,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 80 - 2D Drawing Application 🎨🖌️  
 - Implementation : [2D Drawing Application](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day080)
+
+## ✅ Day 81 - Periodic Table Quiz 🧪  
+- Implementation : [Periodic Table Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day081)
+
+## ✅ Day 82 - Odd/Even Number Checker 🔢  
+- Implementation : [Odd/Even Checker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day082)
+
+## ✅ Day 83 - Simple Quiz with Leaderboard 🏆❓  
+- Implementation : [Quiz with Leaderboard](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day083)
+
+## ✅ Day 84 - Random Fact Generator 🧠✨  
+- Implementation : [Random Fact Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day084)
+
+## ✅ Day 85 - Minimalistic Journal App 📓  
+- Implementation : [Journal App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day085)
+
+## ✅ Day 86 - Basic Chatbot 💬🤖  
+- Implementation : [Basic Chatbot](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day086)
+
+## ✅ Day 87 - Higher or Lower Game 🔼🔽  
+- Implementation : [Higher or Lower Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day087)
+
+## ✅ Day 88 - Story Plot Generator ✍️📚  
+- Implementation : [Story Plot Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day088)
+
+## ✅ Day 89 - Expense Splitter 💸👥  
+- Implementation : [Expense Splitter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day089)
+
+## ✅ Day 90 - Roman Numeral Converter 🏛️🔢  
+- Implementation : [Roman Numeral Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day090)
