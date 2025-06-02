@@ -298,3 +298,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 90 - Roman Numeral Converter 🏛️🔢  
 - Implementation : [Roman Numeral Converter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day090)
+
+## ✅ Day 91 - Digital Fortune Cookie 🥠  
+- Implementation : [Digital Fortune Cookie](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day091)
+
+## ✅ Day 92 - Pig Latin Translator 🐷🔤  
+- Implementation : [Pig Latin Translator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day092)
+
+## ✅ Day 93 - Simple Memory Game 🧠🎮  
+- Implementation : [Memory Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day093)
+
+## ✅ Day 94 - Simple Encryption Tool 🔐  
+- Implementation : [Encryption Tool](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day094)
+
+## ✅ Day 95 - Random Poem Generator 📜✨  
+- Implementation : [Poem Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day095)
+
+## ✅ Day 96 - Sentence Unscrambler 🔀📝  
+- Implementation : [Sentence Unscrambler](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day096)
+
+## ✅ Day 97 - Day Finder (for a given date) 📅🔍  
+- Implementation : [Day Finder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day097)
+
+## ✅ Day 98 - Basic Web Scraper 🌐📄  
+- Implementation : [Web Scraper](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day098)
+
+## ✅ Day 99 - Simple Unit Test Example 🧪🐍  
+- Implementation : [Unit Test Example](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day099)
+
+## ✅ Day 100 - Random Greeting Generator 👋🌍  
+- Implementation : [Greeting Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day100)
