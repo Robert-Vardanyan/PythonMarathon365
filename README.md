@@ -328,3 +328,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 100 - Random Greeting Generator 👋🌍  
 - Implementation : [Greeting Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day100)
+
+## ✅ Day 101 - Quick Typing Game ⌨️⚡  
+- Implementation : [Quick Typing Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day101)
+
+## ✅ Day 102 - Basic Minesweeper 💣🧱  
+- Implementation : [Minesweeper](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day102)
+
+## ✅ Day 103 - Cookie Clicker Game 🍪👆  
+- Implementation : [Cookie Clicker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day103)
+
+## ✅ Day 104 - String Pattern Finder 🔍🧵  
+- Implementation : [String Pattern Finder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day104)
+
+## ✅ Day 105 - Simple Blackjack ♠️🃏  
+- Implementation : [Blackjack](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day105)
+
+## ✅ Day 106 - Random Trivia Quiz 🧠🎲  
+- Implementation : [Trivia Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day106)
+
+## ✅ Day 107 - Stop Signal Visualizer 🛑📊  
+- Implementation : [Stop Signal Visualizer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day107)
+
+## ✅ Day 108 - Basic Maze Game 🧩🏃  
+- Implementation : [Maze Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day108)
+
+## ✅ Day 109 - Arithmetic Quiz Game ➕➖✖️➗  
+- Implementation : [Arithmetic Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day109)
+
+## ✅ Day 110 - Simple Pong Game 🏓  
+- Implementation : [Pong Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day110)
