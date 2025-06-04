@@ -358,3 +358,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 110 - Simple Pong Game 🏓  
 - Implementation : [Pong Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day110)
+
+## ✅ Day 111 - Simon Says Game 🎵🟢🔴  
+- Implementation : [Simon Says Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day111)
+
+## ✅ Day 112 - Photo Collage Generator 🖼️🧩  
+- Implementation : [Photo Collage Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day112)
+
+## ✅ Day 113 - Text Highlighter 🖍️📄  
+- Implementation : [Text Highlighter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day113)
+
+## ✅ Day 114 - Python Syntax Quiz 🐍❓  
+- Implementation : [Python Syntax Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day114)
+
+## ✅ Day 115 - Mini RPG Game 🗡️🛡️  
+- Implementation : [Mini RPG Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day115)
+
+## ✅ Day 116 - Number Sorting Visualizer 🔢📊  
+- Implementation : [Sorting Visualizer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day116)
+
+## ✅ Day 117 - Prime Number Finder 🔍🧮  
+- Implementation : [Prime Finder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day117)
+
+## ✅ Day 118 - Battleship Game 🚢🎯  
+- Implementation : [Battleship Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day118)
+
+## ✅ Day 119 - Tic-Tac-Toe with AI ❌⭕🤖  
+- Implementation : [Tic-Tac-Toe AI](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day119)
+
+## ✅ Day 120 - Memory Card Game 🃏🧠  
+- Implementation : [Memory Card Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day120)
