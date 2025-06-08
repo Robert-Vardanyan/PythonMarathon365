@@ -388,3 +388,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 120 - Memory Card Game 🃏🧠  
 - Implementation : [Memory Card Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day120)
+
+## ✅ Day 121 - Reaction Timer Game ⏱️⚡  
+- Implementation : [Reaction Timer Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day121)
+
+## ✅ Day 122 - Word Scrambler 🔀📝  
+- Implementation : [Word Scrambler](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day122)
+
+## ✅ Day 123 - Cipher Challenge Game 🕵️‍♂️🔐  
+- Implementation : [Cipher Challenge](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day123)
+
+## ✅ Day 124 - Word Frequency Counter 📊📚  
+- Implementation : [Word Frequency Counter](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day124)
+
+## ✅ Day 125 - Fraction Calculator ➗📐  
+- Implementation : [Fraction Calculator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day125)
+
+## ✅ Day 126 - Random Background Color Generator 🎨🔁  
+- Implementation : [Background Color Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day126)
+
+## ✅ Day 127 - Periodic Timer Alert ⏰🔄  
+- Implementation : [Timer Alert](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day127)
+
+## ✅ Day 128 - Digital Dice Roll with Animation 🎲🎞️  
+- Implementation : [Dice Roll Animation](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day128)
+
+## ✅ Day 129 - Simple Trivia App with Categories 🧠📚  
+- Implementation : [Trivia App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day129)
+
+## ✅ Day 130 - Word Definition Fetcher (API-based) 📖🔎  
+- Implementation : [Word Definition Fetcher](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day130)
