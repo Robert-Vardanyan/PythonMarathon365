@@ -418,3 +418,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 130 - Word Definition Fetcher (API-based) 📖🔎  
 - Implementation : [Word Definition Fetcher](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day130)
+
+## ✅ Day 131 - Rock-Paper-Scissors with Score Tracker ✊📊✋  
+- Implementation : [Rock-Paper-Scissors Tracker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day131)
+
+## ✅ Day 132 - Maze Solver (with visuals) 🧩🚶‍♂️  
+- Implementation : [Maze Solver](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day132)
+
+## ✅ Day 133 - Python Keywords Quiz 🐍🧠  
+- Implementation : [Python Keywords Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day133)
+
+## ✅ Day 134 - Crossword Puzzle Generator 🔤🧩  
+- Implementation : [Crossword Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day134)
+
+## ✅ Day 135 - Word Search Game 🔍📘  
+- Implementation : [Word Search Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day135)
+
+## ✅ Day 136 - Basic Sudoku Solver 🔢🧠  
+- Implementation : [Sudoku Solver](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day136)
+
+## ✅ Day 137 - Interactive Story Adventure 📜🕹️  
+- Implementation : [Story Adventure](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day137)
+
+## ✅ Day 138 - Random Recipe Picker 🍲🎲  
+- Implementation : [Recipe Picker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day138)
+
+## ✅ Day 139 - Math Operations Game ➕➖✖️➗🎮  
+- Implementation : [Math Operations Game](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day139)
+
+## ✅ Day 140 - Simple Stopwatch ⏱️🖱️  
+- Implementation : [Simple Stopwatch](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day140)
