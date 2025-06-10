@@ -448,3 +448,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 140 - Simple Stopwatch ⏱️🖱️  
 - Implementation : [Simple Stopwatch](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day140)
+
+## ✅ Day 141 - Virtual Garden Planner 🌱🪴  
+- Implementation : [Virtual Garden Planner](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day141)
+
+## ✅ Day 142 - Cooking Timer 🍳⏲️  
+- Implementation : [Cooking Timer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day142)
+
+## ✅ Day 143 - Simple Dictionary App 📖🔍  
+- Implementation : [Dictionary App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day143)
+
+## ✅ Day 144 - English to Morse Code Quiz 🔡📻  
+- Implementation : [Morse Code Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day144)
+
+## ✅ Day 145 - Daily Goal Tracker ✅📅  
+- Implementation : [Daily Goal Tracker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day145)
+
+## ✅ Day 146 - Tic-Tac-Toe with Multiplayer ❌⭕👥  
+- Implementation : [Tic-Tac-Toe Multiplayer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day146)
+
+## ✅ Day 147 - Random Fun Fact Generator 🤓🎲  
+- Implementation : [Fun Fact Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day147)
+
+## ✅ Day 148 - Simple Budget Planner 💰📊  
+- Implementation : [Budget Planner](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day148)
+
+## ✅ Day 149 - Custom Greeting Card Generator 💌🖋️  
+- Implementation : [Greeting Card Generator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day149)
+
+## ✅ Day 150 - Birthday Reminder 🎂🔔  
+- Implementation : [Birthday Reminder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day150)
