@@ -478,3 +478,33 @@ PythonMarathon365 is a platform sharing a new Python project daily as part of th
 
 ## ✅ Day 150 - Birthday Reminder 🎂🔔  
 - Implementation : [Birthday Reminder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day150)
+
+## ✅ Day 151 - Event Countdown Tracker 📆⏳  
+- Implementation : [Event Countdown Tracker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day151)
+
+## ✅ Day 152 - Habit Tracker 📈✅  
+- Implementation : [Habit Tracker](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day152)
+
+## ✅ Day 153 - Python Shortcuts Quiz 🐍⌨️  
+- Implementation : [Python Shortcuts Quiz](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day153)
+
+## ✅ Day 154 - Music Genre Recommender 🎧🎶  
+- Implementation : [Music Genre Recommender](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day154)
+
+## ✅ Day 155 - Chess Clock Simulator ♟️⏱️  
+- Implementation : [Chess Clock Simulator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day155)
+
+## ✅ Day 156 - Plant Care Reminder 🪴🔔  
+- Implementation : [Plant Care Reminder](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day156)
+
+## ✅ Day 157 - Simple Playlist Manager 🎵📁  
+- Implementation : [Playlist Manager](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day157)
+
+## ✅ Day 158 - Email Format Validator 📧✅  
+- Implementation : [Email Validator](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day158)
+
+## ✅ Day 159 - Basic Keyboard Trainer ⌨️🎯  
+- Implementation : [Keyboard Trainer](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day159)
+
+## ✅ Day 160 - Random Famous Quotes App 🧠💬  
+- Implementation : [Famous Quotes App](https://github.com/Robert-Vardanyan/PythonMarathon365/tree/main/day160)
